@@ -1,6 +1,6 @@
-# Sipml5 webrtc for Angular
+# Sipml5 webrtc for ES (Can be used in Angular and React)
 
-This is a Webrtc library for Angular based on [Sipml5](https://www.doubango.org/sipml5/). In fact, It's a bridge between [Sipml5](https://www.doubango.org/sipml5/) and Angular.
+This is a Webrtc library for ES (Angular , React) based on [Sipml5](https://www.doubango.org/sipml5/). In fact, It's a bridge between [Sipml5](https://www.doubango.org/sipml5/) and Angular or React.
 
 ## Installation
 
