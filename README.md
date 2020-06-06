@@ -1,4 +1,4 @@
-# Sipml5 webrtc for Angular
+# Sipml5 webrtc for Ecmascript
 
 This is a Webrtc library for Angular based on [Sipml5](https://www.doubango.org/sipml5/). In fact, It's a bridge between [Sipml5](https://www.doubango.org/sipml5/) and Angular.
 
