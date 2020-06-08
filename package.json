@@ -1,6 +1,5 @@
 {
   "_from": "ecmascript-webrtc-sipml",
-  "_id": "ecmascript-webrtc-sipml@1.0.8",
   "_inBundle": false,
   "_integrity": "sha512-iDgMKMy6AnHAdfort0PV5l8HIgNdEV7cBOvkwepsxgX9/5AHSuIbM+MDKm8CxNkaLu9uOlUC9nfs8XB5fZNzOw==",
   "_location": "/ecmascript-webrtc-sipml",
@@ -23,13 +22,10 @@
   "_shasum": "6b16e14e38c40a6e337b386e6be5930ae16d2f9c",
   "_spec": "ecmascript-webrtc-sipml",
   "_where": "C:\\React\\webrtc",
-  "author": {
-    "name": "Husin Sajjadi"
-  },
+  "author": "Husin Sajjadi",
   "bugs": {
     "url": "https://github.com/husin-sajjadi/ecmascript-webrtc-sipml/issues"
   },
-  "bundleDependencies": false,
   "deprecated": false,
   "description": "This is a Webrtc library for Angular based on [Sipml5](https://www.doubango.org/sipml5/). In fact, It's a bridge between [Sipml5](https://www.doubango.org/sipml5/) and Angular.",
   "homepage": "https://github.com/husin-sajjadi/ecmascript-webrtc-sipml#readme",

@@ -124,6 +124,9 @@ sipTransfer = () => {
 ```
 
 Start Audio call
+
+this.oSipSessionCall.call("xxxx") start a audio call to xxxx number
+
 ```javascript
 sipCall = (s_type) => {
     let audioRemote = document.getElementById("audio_remote");
@@ -167,7 +170,7 @@ sipCall = (s_type) => {
         // create call session
         this.oSipSessionCall = this.oSipStack.newSession(s_type, this.oConfigCall);
         // make call
-        if (this.oSipSessionCall.call("6004") != 0) {
+        if (this.oSipSessionCall.call("xxxx") != 0) {
             this.oSipSessionCall = null;
             console.log('Failed to make call');
             //btnCall.disabled = false;
