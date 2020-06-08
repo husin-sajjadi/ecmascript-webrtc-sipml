@@ -1,4 +1,4 @@
-# Sipml5 webrtc for Ecmascript
+# Sipml5 webrtc for Angular
 
 This is a Webrtc library for Angular based on [Sipml5](https://www.doubango.org/sipml5/). In fact, It's a bridge between [Sipml5](https://www.doubango.org/sipml5/) and Angular.
 
@@ -7,14 +7,14 @@ This is a Webrtc library for Angular based on [Sipml5](https://www.doubango.org/
 Install via npm
 
 ```bash
-npm i ecmascript-webrtc-sipml
+npm i angular-webrtc-sipml
 ```
 
 ## Usage
 
 import SIPmlWebRTC into your component
 ```javascript
-import SIPmlWebRTC from 'ecmascript-webrtc-sipml';
+import SIPmlWebRTC from 'angular-webrtc-sipml';
 ```
 
 Add the following tags into your html component (audio tags are used to play voice call)

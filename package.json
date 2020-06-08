@@ -1,11 +1,52 @@
 {
-  "name": "angular-webrtc-sipml",
-  "version": "1.0.3",
-  "description": "",
-  "main": "index.js",
+  "_from": "ecmascript-webrtc-sipml",
+  "_id": "ecmascript-webrtc-sipml@1.0.8",
+  "_inBundle": false,
+  "_integrity": "sha512-iDgMKMy6AnHAdfort0PV5l8HIgNdEV7cBOvkwepsxgX9/5AHSuIbM+MDKm8CxNkaLu9uOlUC9nfs8XB5fZNzOw==",
+  "_location": "/ecmascript-webrtc-sipml",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ecmascript-webrtc-sipml",
+    "name": "ecmascript-webrtc-sipml",
+    "escapedName": "ecmascript-webrtc-sipml",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ecmascript-webrtc-sipml/-/ecmascript-webrtc-sipml-1.0.8.tgz",
+  "_shasum": "6b16e14e38c40a6e337b386e6be5930ae16d2f9c",
+  "_spec": "ecmascript-webrtc-sipml",
+  "_where": "C:\\React\\webrtc",
+  "author": {
+    "name": "Husin Sajjadi"
+  },
+  "bugs": {
+    "url": "https://github.com/husin-sajjadi/ecmascript-webrtc-sipml/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "This is a Webrtc library for Angular based on [Sipml5](https://www.doubango.org/sipml5/). In fact, It's a bridge between [Sipml5](https://www.doubango.org/sipml5/) and Angular.",
+  "homepage": "https://github.com/husin-sajjadi/ecmascript-webrtc-sipml#readme",
+  "keywords": [
+    "sipml",
+    "webrtc",
+    "angular"
+  ],
+  "license": "ISC",
+  "main": "SIPml.min.js",
+  "name": "ecmascript-webrtc-sipml",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/husin-sajjadi/ecmascript-webrtc-sipml.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "version": "1.0.9"
 }
